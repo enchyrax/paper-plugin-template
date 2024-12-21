@@ -1,0 +1,4 @@
+name: paper-plugin-template
+version: '1.0.0'
+main: kr.enchyrax.mc.example.ExamplePlugin
+api-version: '1.20'
